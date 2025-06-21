@@ -21,7 +21,7 @@ Try the live app here: [GUVI Personal AI App](https://www.guvi.in/rag/fa6b3745-7
 
 ## 📸 Screenshot
 
-![Personal AI Screenshot](Personal AI)
+![Personal AI Screenshot](Personal AI.png)
 
 ---
 
